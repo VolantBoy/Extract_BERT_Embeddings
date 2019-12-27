@@ -10,7 +10,7 @@
     --character_file='./Characters.txt' \
     --bert_model bert-base-chinese \
     --do_lower_case 
-# Paramenters
+# Parameters
     input_file:   a file which store character, one character per line 
     output_file:  a file which store character embeddings in word2vec format
     character_file:  a file which store character after tokenizing
