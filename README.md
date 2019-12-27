@@ -3,7 +3,7 @@
 # Requirements
     pytorch_transformers
     python3
-# Usege
+# Usage
     python extract_features.py \
     --input_file='../statistics/characters.txt' \
     --output_file='./char_emb_768.txt' \
