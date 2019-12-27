@@ -11,6 +11,6 @@
     --bert_model bert-base-chinese \
     --do_lower_case 
 # Parameters
-    input_file:   a file which store character, one character per line 
-    output_file:  a file which store character embeddings in word2vec format
-    character_file:  a file which store character after tokenizing
+    input_file:   a file which stores character, one character per line 
+    output_file:  a file which stores character embeddings in word2vec format
+    character_file:  a file which stores character after tokenizing
